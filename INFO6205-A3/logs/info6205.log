@@ -1,0 +1,49 @@
+2020-09-26 20:04:01 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Random:500 elements. Time: 0.8
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  partially-ordered: 500 elements. Time: 0.2
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Reverse-ordered: 500 elements. Time: 0.4
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Ordered:500 elements. Time: 0.0
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Random:1000 elements. Time: 0.8
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  partially-ordered: 1000 elements. Time: 0.2
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Reverse-ordered: 1000 elements. Time: 1.8
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Ordered:1000 elements. Time: 0.0
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Random:2000 elements. Time: 3.6
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  partially-ordered: 2000 elements. Time: 0.8
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Reverse-ordered: 2000 elements. Time: 10.8
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Ordered:2000 elements. Time: 0.0
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:56 INFO  Benchmark_Timer -  Random:4000 elements. Time: 20.8
+2020-09-26 20:04:56 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:56 INFO  Benchmark_Timer -  partially-ordered: 4000 elements. Time: 4.0
+2020-09-26 20:04:56 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:56 INFO  Benchmark_Timer -  Reverse-ordered: 4000 elements. Time: 31.0
+2020-09-26 20:04:56 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:56 INFO  Benchmark_Timer -  Ordered:4000 elements. Time: 0.0
+2020-09-26 20:04:56 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:56 INFO  Benchmark_Timer -  Random:8000 elements. Time: 62.8
+2020-09-26 20:04:56 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:56 INFO  Benchmark_Timer -  partially-ordered: 8000 elements. Time: 18.2
+2020-09-26 20:04:56 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:57 INFO  Benchmark_Timer -  Reverse-ordered: 8000 elements. Time: 117.2
+2020-09-26 20:04:57 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:57 INFO  Benchmark_Timer -  Ordered:8000 elements. Time: 0.0
+2020-09-26 20:04:57 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:59 INFO  Benchmark_Timer -  Random:16000 elements. Time: 296.0
+2020-09-26 20:04:59 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:05:00 INFO  Benchmark_Timer -  partially-ordered: 16000 elements. Time: 100.0
+2020-09-26 20:05:00 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:05:03 INFO  Benchmark_Timer -  Reverse-ordered: 16000 elements. Time: 489.2
+2020-09-26 20:05:03 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:05:03 INFO  Benchmark_Timer -  Ordered:16000 elements. Time: 0.0
