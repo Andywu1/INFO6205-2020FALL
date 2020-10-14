@@ -1,0 +1,202 @@
+2020-09-26 20:04:01 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Random:500 elements. Time: 0.8
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  partially-ordered: 500 elements. Time: 0.2
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Reverse-ordered: 500 elements. Time: 0.4
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Ordered:500 elements. Time: 0.0
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Random:1000 elements. Time: 0.8
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  partially-ordered: 1000 elements. Time: 0.2
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Reverse-ordered: 1000 elements. Time: 1.8
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Ordered:1000 elements. Time: 0.0
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Random:2000 elements. Time: 3.6
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  partially-ordered: 2000 elements. Time: 0.8
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Reverse-ordered: 2000 elements. Time: 10.8
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:55 INFO  Benchmark_Timer -  Ordered:2000 elements. Time: 0.0
+2020-09-26 20:04:55 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:56 INFO  Benchmark_Timer -  Random:4000 elements. Time: 20.8
+2020-09-26 20:04:56 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:56 INFO  Benchmark_Timer -  partially-ordered: 4000 elements. Time: 4.0
+2020-09-26 20:04:56 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:56 INFO  Benchmark_Timer -  Reverse-ordered: 4000 elements. Time: 31.0
+2020-09-26 20:04:56 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:56 INFO  Benchmark_Timer -  Ordered:4000 elements. Time: 0.0
+2020-09-26 20:04:56 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:56 INFO  Benchmark_Timer -  Random:8000 elements. Time: 62.8
+2020-09-26 20:04:56 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:56 INFO  Benchmark_Timer -  partially-ordered: 8000 elements. Time: 18.2
+2020-09-26 20:04:56 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:57 INFO  Benchmark_Timer -  Reverse-ordered: 8000 elements. Time: 117.2
+2020-09-26 20:04:57 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:57 INFO  Benchmark_Timer -  Ordered:8000 elements. Time: 0.0
+2020-09-26 20:04:57 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:04:59 INFO  Benchmark_Timer -  Random:16000 elements. Time: 296.0
+2020-09-26 20:04:59 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:05:00 INFO  Benchmark_Timer -  partially-ordered: 16000 elements. Time: 100.0
+2020-09-26 20:05:00 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:05:03 INFO  Benchmark_Timer -  Reverse-ordered: 16000 elements. Time: 489.2
+2020-09-26 20:05:03 INFO  Benchmark_Timer - Begin run: Benchmark for Insertion Sort with 5 runs
+2020-09-26 20:05:03 INFO  Benchmark_Timer -  Ordered:16000 elements. Time: 0.0
+2020-10-13 17:30:41 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:30:41 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:30:41 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:30:41 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:30:41 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:30:41 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:30:41 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:30:41 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:30:41 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:30:42 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:30:42 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:30:42 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:30:42 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:30:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:30:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:30:44 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:30:44 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:30:46 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:30:47 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:30:48 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:30:49 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:30:52 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:30:56 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:30:58 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:31:00 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:31:09 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:31:18 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:31:24 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:31:30 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:31:59 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:32:29 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:32:51 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:33:08 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:33:09 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:33:09 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:33:09 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:57:37 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:57:38 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:57:38 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:57:38 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 17:57:38 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 17:57:38 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 17:57:38 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 17:57:38 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:16:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:16:46 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:16:46 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:16:46 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:16:46 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:16:46 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:16:46 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:16:46 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:16:46 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:16:46 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:16:47 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:19:01 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:19:02 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:19:02 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:19:02 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:19:02 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:19:02 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:19:02 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:19:02 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:19:03 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:40:43 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:40:44 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:40:44 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:40:44 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:40:44 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:40:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:40:45 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:40:46 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:40:46 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on size with 20 runs
+2020-10-13 18:40:48 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF based on height with 20 runs
+2020-10-13 18:40:49 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression  with 20 runs
+2020-10-13 18:40:50 INFO  Benchmark_Timer - Begin run: Benchmark for Weighted UF Path compression Grandparent fix with 20 runs
+2020-10-13 18:43:14 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
